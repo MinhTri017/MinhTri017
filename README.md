@@ -1,5 +1,5 @@
 ## Hello guys! :sunflower:  
-### My name is **Minh Tri**, welcome to my profile 👋
+### My name is **Minh Tri** :boy:, welcome to my profile 👋
 ## :full_moon: Introduction
 * :birthday: **Age**: 18 years old
 * :house:  **Location**: Bien Hoa city, Dong Nai province
@@ -10,15 +10,15 @@
     * Coding :computer:
     * Playing sport :basketball:
     * Hangout with friends :two_men_holding_hands:
-    * Watching films :tv:
+    * Watching films :tv:      
 ## :first_quarter_moon: **Languages**:
 * :one: **c++**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 * :two: **html**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 * :three: **css**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 * :four: **javascript** <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 ## :new_moon: **Find me**
-* <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[https://www.facebook.com/profile.php?id=100006472204856]
-* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[https://www.instagram.com/minnhtrii/]
+* <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />**[Facebook](https://www.facebook.com/profile.php?id=100006472204856)**
+* <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />**[Instagram](https://www.instagram.com/minnhtrii/)**
 
 
 
