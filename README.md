@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hello guys! :sunflower:  
+### My name is **Tri**, welcome to my profile 👋
+#### :full_moon: Introduction
+
+
+
+
+minh **tri**
+:bowtie:
+skill
+    + most used languages
+
+ favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+ 
+
+
 
 <!--
 **Minhtri0817/Minhtri0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
