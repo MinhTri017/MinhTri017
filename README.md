@@ -1,9 +1,10 @@
-## Hello guys! :sunflower:  
+# Hello guys! :sunflower:  
 ### My name is **Minh Tri** :boy:, welcome to my profile 👋
 ## :full_moon: Introduction
 * :birthday: **Age**: 18 years old
 * :house:  **Location**: Bien Hoa city, Dong Nai province
 * :handbag: **Job**: Freshman in University of Information Technology
+
     * My Speciality is: Computer Science
     * My current class is: KHCL2021.2
 * :star: **Hobbies**:
