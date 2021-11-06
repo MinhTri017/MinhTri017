@@ -1,6 +1,22 @@
 ## Hello guys! :sunflower:  
 ### My name is **Tri**, welcome to my profile 👋
-#### :full_moon: Introduction
+## :full_moon: Introduction
+* :birthday: **Age**: 18 years old
+* :house:  **Location**: Bien Hoa city, Dong Nai province
+* :handbag: **Job**: Freshman in University of Information Technology
+    * My Speciality is Computer Science
+* :star: **Hobbies**:
+    * Coding :computer:
+    * Playing sport :basketball:
+    * Hangout with friends :two_men_holding_hands:
+    * Watching films :tv:
+## :first_quarter_moon: **Languages**:
+* :one: **c++**
+* :two: **html**
+* :three: **css**
+* :four: **javascript**
+## :new_moon: **Find me**
+* [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/profile.php?id=100006472204856]
 
 
 
