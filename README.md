@@ -9,26 +9,45 @@
     * My current class is: KHCL2021.2
 * :star: **Hobbies**:
     * Coding :computer:
-*    * Playing sport :basketball:
+    * Playing sport :basketball:
     * Hangout with friends :two_men_holding_hands:
     * Watching films :tv:      
-## :first_quarter_moon: **Languages**
-* :one: **c++**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+## :first_quarter_moon: **Languages** and **Tools**
+### Languages:
+* :one: **c++**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 * :two: **html**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 * :three: **css**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 * :four: **javascript** <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 
+### Tools:
+
 ## :new_moon: **Find me**
 * <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />**[Facebook](https://www.facebook.com/profile.php?id=100006472204856)**
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />**[Instagram](https://www.instagram.com/minnhtrii/)**
-
+* dissocrd
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinhTri017)
 
 
 
 
- 
+<table style="width:100%; table-layout:fixed">
+ <tr>
+    <th>My fav sport </th>
+    <th>My fav food </th>
+    <th>My fav place </th>
+  </tr>  
+   <tr>
+    <td>
+       <p> tri k beo </p>
+      </td>
+      <td>
+         <p> dinh beo </p>
+      </td>
+      <td>
+         <p> bla </p>
+      </td>
+   </tr>
 
 
 
