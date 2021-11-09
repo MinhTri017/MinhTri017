@@ -5,8 +5,8 @@
 * :house:  **Location**: Bien Hoa city, Dong Nai province
 * :handbag: **Job**: Freshman in University of Information Technology
 
-    * My Speciality is: Computer Science
-    * My current class is: KHCL2021.2
+    * My speciality is: Computer Science
+    * My current class is: KHCL.2
 * :star: **Hobbies**:
     * Coding :computer:
     * Playing sport :basketball:
