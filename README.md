@@ -1,7 +1,7 @@
 # Hello guys! :sunflower:  
-### My name is **Minh Tri** :boy:, welcome to my profile 👋
+### My name is ***Minh Tri*** :boy:, welcome to my profile 👋
 ## :full_moon: Introduction
-* :birthday: **Age**: 18 years old
+* :birthday: **Age**: 18 years old 
 * :house:  **Location**: Bien Hoa city, Dong Nai province
 * :handbag: **Job**: Freshman in University of Information Technology
 
@@ -18,9 +18,20 @@
 * :two: **html**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 * :three: **css**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 * :four: **javascript** <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+
+
+
+###  Languages 
+ ![C++](https://img.shields.io/badge/-C++-7FFFD4?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+
 
 ### Tools:
+
+<code><img width="10%" height="68px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 ## :new_moon: **Find me**
 * <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />**[Facebook](https://www.facebook.com/profile.php?id=100006472204856)**
