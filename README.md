@@ -1,19 +1,23 @@
 # Hello guys! :sunflower:  
 ### My name is ***Minh Tri*** :boy:, welcome to my profile 👋
-## :full_moon: Introduction
+### :full_moon: Introduction
 * :birthday: **Age**: 18 years old 
 * :house:  **Location**: Bien Hoa city, Dong Nai province
-* :handbag: **Job**: Freshman in University of Information Technology
+* :handbag: **Job**: Freshman in the University of Information Technology
 
-    * My speciality is: Computer Science
+    * My department is: Computer Science
     * My current class is: KHCL.2
 * :star: **Hobbies**:
     * Coding :computer:
     * Playing sport :basketball:
     * Hangout with friends :two_men_holding_hands:
     * Watching films :tv:      
-## :first_quarter_moon: **Languages** and **Tools**
-### Languages:
+
+---
+
+
+### :first_quarter_moon: **Languages** and **Tools**
+#### Languages:
 * :one: **c++**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 * :two: **html**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 * :three: **css**  <img text-align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
@@ -21,23 +25,25 @@
 
 
 
-###  Languages 
+####  Languages 
  ![C++](https://img.shields.io/badge/-C++-7FFFD4?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
 
-### Tools:
+#### Tools:
 
 <code><img width="10%" height="68px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+---
 
 ## :new_moon: **Find me**
 * <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />**[Facebook](https://www.facebook.com/profile.php?id=100006472204856)**
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />**[Instagram](https://www.instagram.com/minnhtrii/)**
 * dissocrd
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinhTri017)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinhTri017) | [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinhTri017)
 
 
 
@@ -60,7 +66,7 @@
       </td>
    </tr>
 
-
+>some pictures i like
 
 <!--
 **Minhtri0817/Minhtri0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
