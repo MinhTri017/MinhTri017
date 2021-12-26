@@ -1,7 +1,7 @@
 # Hello guys! :sunflower:  
 ### My name is ***Minh Tri*** :boy:, welcome to my profile 👋
 ### :full_moon: Introduction
-* :birthday: **Age**: 18 years old 
+* :birthday: **Age**: 18 
 * :house:  **Location**: Bien Hoa city, Dong Nai province
 * :handbag: **Job**: Freshman in the University of Information Technology
 
@@ -26,16 +26,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 
 
 #### Tools:
 
-<code><img  height="40" width="50"  height="68px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img  height="40" width="60"  height="68px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img  height="40" width="80"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img  height="40" width="80"  src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 <code><img  height="40" width="80"  src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img  height="40" width="100"  src="https://seeklogo.com/images/P/postman-logo-5110850F84-seeklogo.com.png"></code>
 <code><img  height="40" width="100"  src="https://seeklogo.com/images/N/notion-logo-4CE8FBF5C5-seeklogo.com.png"></code>
+<code><img  height="40" width="50"  src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"></code>
+
 
 
 
@@ -51,26 +54,26 @@
 
 
 
-
+>some pictures i like 
 <table style="width:100%; table-layout:fixed">
  <tr>
-    <th>My fav sport </th>
-    <th>My fav food </th>
-    <th>My fav place </th>
+    <th>My fav basketball player </th>
+    <th>My anwsome class </th>
+    <th>My studyspace </th>
   </tr>  
    <tr>
     <td>
-       <p> tri k beo </p>
+       <p> <img  height="250" width="150"  src="https://i.pinimg.com/564x/3d/02/01/3d02015471d3c5b80e47b59af25d77f6.jpg"> </p>
       </td>
       <td>
-         <p> dinh beo </p>
+         <p> <img  height="250" width="300"  src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/65841865_626219454530332_8584890444968624128_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JTG1A8p0BPcAX-gVyu9&_nc_ht=scontent-hkt1-1.xx&oh=00_AT-4e55_8lYUizWqDB0oEyYjBs0wZlMmih4OxAN79lV9Ig&oe=61ECF91F"> </p>
       </td>
       <td>
          <p> bla </p>
       </td>
    </tr>
 
->some pictures i like
+
 
 <!--
 * <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />**[Facebook](https://www.facebook.com/profile.php?id=100006472204856)**
