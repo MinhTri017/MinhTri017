@@ -57,24 +57,34 @@
 ## ⭐ **Some pictures i like** 
 <table style="width:100%; table-layout:fixed">
  <tr>
-    <th>My fav basketball player </th>
-    <th>My awesome class </th>
-    <th>My studyspace </th>
+    <th>Vung Tau trip with my class 🏖️</th>
+    <th>Our memorable DaLat trip ⛰️</th>
   </tr>  
    <tr>
-    <td>
-       <p> <img  height="250" width="150"  src="https://i.pinimg.com/564x/3d/02/01/3d02015471d3c5b80e47b59af25d77f6.jpg"> </p>
+      <td>
+         <p> <img  height="200" width="300"  src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/65841865_626219454530332_8584890444968624128_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JTG1A8p0BPcAX-gVyu9&_nc_ht=scontent-hkt1-1.xx&oh=00_AT-4e55_8lYUizWqDB0oEyYjBs0wZlMmih4OxAN79lV9Ig&oe=61ECF91F"> </p>
       </td>
       <td>
-         <p> <img  height="250" width="300"  src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/65841865_626219454530332_8584890444968624128_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JTG1A8p0BPcAX-gVyu9&_nc_ht=scontent-hkt1-1.xx&oh=00_AT-4e55_8lYUizWqDB0oEyYjBs0wZlMmih4OxAN79lV9Ig&oe=61ECF91F"> </p>
-      </td>
-      <td>
-         <p> <img  height="250" width="300"  src="z3064188222479_ae17fb0e257dcdb7238d3d3254a26625.jpg"> </p>
+           <p> <img  height="200" width="300"  src="z3064188222479_ae17fb0e257dcdb7238d3d3254a26625.jpg"> </p>
       </td>
      
    </tr>
+   <tr>
+       <th>My fav basketball court 🏀</th>
+       <th>School basketball team 🔥 </th>
+   </tr>
+   <tr>
+      <td>
+       <p> <img  height="200" width="300" src="z3064198645104_127de53cabc639dc6c504bf5d8bbf3f4.jpg"> </p>
+      </td>
+       <td>
+           <p> <img  height="200" width="300"  src="z3064189922342_e9f1c6d69215785a20eb585a3f44da8a.jpg"> </p>
+      </td>
+      
+   </tr>
+   
 
-
+</table>
 
 <!--
 >some pictures i like 
