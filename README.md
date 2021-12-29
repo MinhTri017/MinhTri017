@@ -51,14 +51,14 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MinhTri017) | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006472204856) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/minnhtrii/)
 
+---
 
 
-
->some pictures i like 
+## ⭐ **Some pictures i like** 
 <table style="width:100%; table-layout:fixed">
  <tr>
     <th>My fav basketball player </th>
-    <th>My anwsome class </th>
+    <th>My awesome class </th>
     <th>My studyspace </th>
   </tr>  
    <tr>
@@ -69,13 +69,15 @@
          <p> <img  height="250" width="300"  src="https://scontent-hkt1-1.xx.fbcdn.net/v/t1.6435-9/65841865_626219454530332_8584890444968624128_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=JTG1A8p0BPcAX-gVyu9&_nc_ht=scontent-hkt1-1.xx&oh=00_AT-4e55_8lYUizWqDB0oEyYjBs0wZlMmih4OxAN79lV9Ig&oe=61ECF91F"> </p>
       </td>
       <td>
-         <p> bla </p>
+         <p> <img  height="250" width="300"  src="z3064188222479_ae17fb0e257dcdb7238d3d3254a26625.jpg"> </p>
       </td>
+     
    </tr>
 
 
 
 <!--
+>some pictures i like 
 * <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />**[Facebook](https://www.facebook.com/profile.php?id=100006472204856)**
 * <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />**[Instagram](https://www.instagram.com/minnhtrii/)**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
